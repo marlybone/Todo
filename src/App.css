@@ -1,3 +1,20 @@
 :root {
   
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.todoBox {
+  border: 0.8px solid black;
+  box-shadow: 0 20px 50px rgba(240, 46, 170, 0.7);
+  background: white;
+  margin: 50px;
+  padding: 55px;
+  width: 675px;
+  height: 650px;
+  border-radius: 20px;
+}
+

@@ -1,9 +1,10 @@
 import './App.css'
+import Todo from './Todo'
 
 export default function App() {
   return (
-    <div>
-      <h1>Todo List</h1>
-    </div>
+    <main>
+      <Todo />
+    </main>
   )
 }
